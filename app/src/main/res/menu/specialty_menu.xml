@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Surgical"
+        android:id="@+id/surgical"
+        />
+
+    <item
+        android:title="Dermatology"
+        android:id="@+id/dermatology"
+        />
+
+    <item
+        android:title="Gynecology"
+        android:id="@+id/gynecology"
+        />
+
+    <item
+        android:title="Hepatology"
+        android:id="@+id/hepatology"
+        />
+
+</menu>
